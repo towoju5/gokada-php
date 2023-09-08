@@ -11,13 +11,29 @@ This is where your description should go. Try and limit it to a paragraph or two
 You can install the package via composer:
 
 ```bash
-composer require towoju5/dellyman-shipment
+composer require towoju5/gokada-php
+```
+
+## Live mode
+
+```php
+$gokada = new GoKada($apiKey);
+```
+
+## Sandbox mode
+
+```php
+$gokada = new GoKada($apiKey, true);
 ```
 
 ## Usage
 
 ```php
-// Usage description here
+$resul = $gokada->orderStatus("HSSRD-745143");
+$resul = $gokada->orderCancel("HSSRD-745143");
+$resul = $gokada->orderHistory("HSSRD-745143");
+$resul = $gokada->createOrder($createOrder);
+$resul = $gokada->estimate($createOrder);
 ```
 
 ### Testing
@@ -36,7 +52,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ### Security
 
-If you discover any security related issues, please email towojuads@gmail.com instead of using the issue tracker.
+If you discover any security related issues, please email info@towoju.com.ng instead of using the issue tracker.
 
 ## Credits
 
