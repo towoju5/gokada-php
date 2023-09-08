@@ -1,8 +1,8 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/towoju5/dellyman-shipment.svg?style=flat-square)](https://packagist.org/packages/towoju5/dellyman-shipment)
-[![Total Downloads](https://img.shields.io/packagist/dt/towoju5/dellyman-shipment.svg?style=flat-square)](https://packagist.org/packages/towoju5/dellyman-shipment)
-![GitHub Actions](https://github.com/towoju5/dellyman-shipment/actions/workflows/main.yml/badge.svg)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/towoju5/gokada-php.svg?style=flat-square)](https://packagist.org/packages/towoju5/gokada-php)
+[![Total Downloads](https://img.shields.io/packagist/dt/towoju5/gokada-php.svg?style=flat-square)](https://packagist.org/packages/towoju5/gokada-php)
+![GitHub Actions](https://github.com/towoju5/gokada-php/actions/workflows/main.yml/badge.svg)
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
