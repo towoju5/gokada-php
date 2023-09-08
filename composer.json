@@ -1,11 +1,11 @@
 {
-    "name": "towoju5/dellyman-shipment",
+    "name": "towoju5/gokada-php",
     "description": "php package for Dellyman rest API.",
     "keywords": [
         "towoju5",
-        "dellyman-shipment"
+        "gokada-php"
     ],
-    "homepage": "https://github.com/towoju5/dellyman-shipment",
+    "homepage": "https://github.com/towoju5/gokada-php",
     "license": "MIT",
     "type": "library",
     "authors": [

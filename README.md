@@ -36,28 +36,6 @@ $resul = $gokada->createOrder($createOrder);
 $resul = $gokada->estimate($createOrder);
 ```
 
-### Testing
-
-```bash
-composer test
-```
-
-### Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-### Security
-
-If you discover any security related issues, please email info@towoju.com.ng instead of using the issue tracker.
-
-## Credits
-
--   [EMMANUEL TOWOJU](https://github.com/towoju5)
--   [All Contributors](../../contributors)
 
 ## License
 
