@@ -4,7 +4,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/towoju5/gokada-php.svg?style=flat-square)](https://packagist.org/packages/towoju5/gokada-php)
 ![GitHub Actions](https://github.com/towoju5/gokada-php/actions/workflows/main.yml/badge.svg)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+The Gokada PHP package is a versatile and developer-friendly toolkit for integrating Gokada's services and features into PHP applications. It streamlines the process of accessing Gokada's ride-sharing and delivery services, allowing developers to create innovative solutions that leverage Gokada's capabilities within their PHP projects.
 
 ## Installation
 
